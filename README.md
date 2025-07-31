@@ -1,6 +1,6 @@
-## Hola, me llamo Javier Aldana 👋
+  ## Hi! Javier here, how's it going? 👋
 
-⚠️README.md en proceso...⚠️
+⚠️README.md in process...⚠️
 <!--
 **javigk01/javigk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
