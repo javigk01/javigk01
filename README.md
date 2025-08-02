@@ -8,7 +8,7 @@
 
 ## 💻 Tech Stack:
 
-<table border="0">
+<table>
 <tr>
 <td width="60%">
 
