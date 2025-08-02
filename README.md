@@ -4,7 +4,7 @@
 🎓 I'm a young programmer currently studying Systems Engineering at Pontificia Universidad Javeriana in Colombia.<br><br>🚀 I'm passionate about exploring new technologies, best practices, and practical tips that improve development and problem-solving.<br><br>🧠 I'm always looking to join projects that challenge me and help me expand my knowledge and skills.<br><br>🔧 Currently learning and exploring: Software and Web Development, Internet of Things (IoT), and Cybersecurity<br><br>🎯 My goal is to become a versatile developer capable of building real-world, impactful solutions.<br><br>🎵 In my free time, I enjoy: listening to music, playing Minecraft, going to the gym, and working on personal coding projects
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/javigk.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_javi.gk01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/javier-felipe-aldana-jaramillo-904975274/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_javi.gk01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al_javier@javeriana.edu.co) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/javigk.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_javi.gk01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-felipe-aldana-jaramillo-904975274/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_javi.gk01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al_javier@javeriana.edu.co) 
 
 ## 💻 Tech Stack:
 
@@ -33,11 +33,13 @@
 </td>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/fbd09237708879.57499fd76d035.gif" width="100%" />
 
 </td>
 </tr>
 </table>
+
+<div align="center">
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -49,6 +51,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=javigk01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=javigk01&icon=0&color=0)](https://visitcount.itsvg.in)
