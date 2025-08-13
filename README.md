@@ -42,7 +42,7 @@
 </td>
 <td width="40%">
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/fbd09237708879.57499fd76d035.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%" />
 
 </td>
 </tr>
