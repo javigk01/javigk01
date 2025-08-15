@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi! Javier here, how's it going? <img src="https://static.wikia.nocookie.net/nyancat/images/b/b9/OriginalNyan.gif/revision/latest/thumbnail/width/360/height/360?cb=20221126212440" width="4%">👋
+# Hi! Javier here, how's it going? <img src="https://static.wikia.nocookie.net/nyancat/images/b/b9/OriginalNyan.gif/revision/latest/thumbnail/width/360/height/360?cb=20221126212440" width="6%">
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
