@@ -80,15 +80,15 @@
 <table>
     <tr>
         <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117" alt="Top Languages" width="100%" />
         </td>
         <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117" alt="Top Languages" width="100%" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=javigk01&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=javigk01&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="60%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="65%" />
         </td>
     </tr>
 </table>
