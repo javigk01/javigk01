@@ -79,16 +79,16 @@
 
 <table>
     <tr>
-        <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%" />
+        <td width="50%" align="center" style="padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%" height="195" />
         </td>
-        <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=javigk01&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
+        <td width="50%" align="center" style="padding: 0;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=javigk01&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" height="195" />
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="65%" />
+        <td colspan="2" align="center" style="padding: 10px 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%" />
         </td>
     </tr>
 </table>
