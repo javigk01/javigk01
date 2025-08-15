@@ -91,6 +91,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigk01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
         </td>
     </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
 </table>
 
 </div>
