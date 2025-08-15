@@ -6,7 +6,7 @@
 
 </div>
 
-<h2><img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%"> About Me:</h2>
+<h3><img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%"> About Me:</h3>
 
 🎓 I'm a young programmer currently studying Systems Engineering at Pontificia Universidad Javeriana in Colombia.<br><br>🚀 I'm passionate about exploring new technologies, best practices, and practical tips that improve development and problem-solving.<br><br>🧠 I'm always looking to join projects that challenge me and help me expand my knowledge and skills.<br><br>🔧 Currently learning and exploring: Software and Web Development, Internet of Things (IoT), and Cybersecurity<br><br>🎯 My goal is to become a versatile developer capable of building real-world, impactful solutions.<br><br>🎵 In my free time, I enjoy: listening to music, playing Minecraft, going to the gym, and working on personal coding projects
 
