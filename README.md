@@ -6,19 +6,19 @@
 
 </div>
 
-<h2><img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%"> About Me:</h2>
+<h3><img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="4%"> About Me:</h3>
 
 🎓 I'm a young programmer currently studying Systems Engineering at Pontificia Universidad Javeriana in Colombia.<br><br>🚀 I'm passionate about exploring new technologies, best practices, and practical tips that improve development and problem-solving.<br><br>🧠 I'm always looking to join projects that challenge me and help me expand my knowledge and skills.<br><br>🔧 Currently learning and exploring: Software and Web Development, Internet of Things (IoT), and Cybersecurity<br><br>🎯 My goal is to become a versatile developer capable of building real-world, impactful solutions.<br><br>🎵 In my free time, I enjoy: listening to music, playing Minecraft, going to the gym, and working on personal coding projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h2>🌐 Socials:</h2>
+<h3>🌐 Socials:</h3>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/javigk.01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_javi.gk01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-felipe-aldana-jaramillo-904975274/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_javi.gk01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al_javier@javeriana.edu.co) 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h2>💻 Tech Stack:</h2>
+<h3>💻 Tech Stack:</h3>
 
 <table>
 <tr>
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<h2>📊 GitHub Stats:</h2>
+<h3>📊 GitHub Stats:</h3>
 
 <table>
     <tr>
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=javigk01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
