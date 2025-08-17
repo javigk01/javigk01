@@ -4,6 +4,13 @@
 
 <h1>Hi! Javier here, how's it going? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="35" height="35" /></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Javier+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Web+%7C+IoT+%7C+Cybersecurity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Always+Learning+%26+Building+🚀" />
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
