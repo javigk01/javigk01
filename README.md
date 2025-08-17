@@ -4,12 +4,7 @@
 
 <h1>Hi! Javier here, how's it going? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="35" height="35" /></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi!+I'm+Javier+👋" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Web+%7C+IoT+%7C+Cybersecurity" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Always+Learning+%26+Building+🚀" />
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&letterSpacing=2px&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Coffee-Powered+Systems+Engineering+Student+%3AD;Web+%7C+IoT+%7C+Cybersecurity+Explorer;Turning+Ideas+into+Code+;Passionate+about+Tech+%26+Innovation+%3A);Code.+Create.+Innovate.;Ctrl%2BC+%26+Ctrl%2BV+Lover+0_0;Future+Versatile+Developer;(%C9%94%E2%97%94%E2%80%BF%E2%97%94)%C9%94+%E2%99%A5" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
